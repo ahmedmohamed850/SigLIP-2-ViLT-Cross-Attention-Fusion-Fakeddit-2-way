@@ -1,0 +1,12 @@
+SigLIP-2 + ViLT Cross-Attention Fusion — Fakeddit 2-Way
+
+Performance Summary by Fold (Best Epoch)
+Fold	Best Epoch	Validation Accuracy	Validation Macro F1
+Fold 1	16	0.8969	0.8969
+Fold 2	17	0.8955	0.8951
+Fold 3	18	0.8830	0.8829
+Fold 4	17	0.8858	0.8851
+Fold 5	20	0.8928	0.8922
+Average	—	0.8908	0.8904
+Test ACC = 0.8908
+Test F1 = 0.8904
